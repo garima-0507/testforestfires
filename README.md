@@ -1,2 +1,7 @@
-A **Machine Learning project** built on the **Algerian Forest Fires Dataset**, aimed at predicting the **Fire Weather Index (FWI)** based on meteorological parameters. 
-This project demonstrates an **end-to-end ML pipeline** — from data preprocessing and model training to deployment with Flask.
+#  Algerian Forest Fires – ML Project
+Predicting **Fire Weather Index (FWI)** using the **Algerian Forest Fires Dataset** with a complete ML pipeline — from data preprocessing to deployment with Flask.
+ 
+- **Dataset:** [Algerian Forest Fires](https://archive.ics.uci.edu/ml/datasets/Algerian+Forest+Fires+Dataset)  
+- **Model:** Ridge Regression  
+- **Goal:** Predict FWI based on 13 meteorological features  
+- **Deployment:** Flask Web App
